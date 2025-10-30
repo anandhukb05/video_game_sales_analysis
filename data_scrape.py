@@ -94,6 +94,5 @@ while True:
 
     except Exception as e:
         print("Pagination ended or error:", e)
-        break
 
 driver.quit()
